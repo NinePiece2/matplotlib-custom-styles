@@ -15,8 +15,8 @@ ytick.color: white
 
 grid.color: white
 
-figure.facecolor: '121212'
-figure.edgecolor: '121212'
+figure.facecolor: #121212
+figure.edgecolor: #121212
 
 ### Boxplots
 boxplot.boxprops.color: white
